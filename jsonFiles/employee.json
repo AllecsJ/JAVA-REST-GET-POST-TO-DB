@@ -1,0 +1,11 @@
+{
+"results":
+[{"gender": "male","name":
+{"title":"Mr","first":"Ian","last":"Collins"},
+"location":{"street":{"number":7821,"name":"St. John’S Road"},"city":"Sunderland","state":"Essex","country":"United Kingdom",
+"postcode":"P0 7AU",
+"coordinates":{"latitude":"-10.9792","longitude":"-145.1308"},"timezone":{"offset":"+7:00","description":"Bangkok, Hanoi, Jakarta"}},
+"email":"ian.collins@example.com",
+"login":{"uuid":"62cccd59-5f08-440c-b0e4-cfcdd119c7fa",
+"username":"tinyfish809",
+"password":"7779311","salt":"t0cFqbU8","md5":"7d5df9a04115c9d404ba6a55a3918d8c","sha1":"4ae0354d92dcb1abee8d644c3eac3521ee1e10aa","sha256":"5aa432729b01428dee850e6130524782a7f8fd574251952b205e70b918891c8d"},"dob":{"date":"2000-04-03T19:37:38.916Z","age":23},"registered":{"date":"2017-12-09T07:17:15.265Z","age":5},"phone":"01737 855800","cell":"07375 096913","id":{"name":"NINO","value":"TA 15 07 07 U"},"picture":{"large":"https://randomuser.me/api/portraits/men/85.jpg","medium":"https://randomuser.me/api/portraits/med/men/85.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/85.jpg"},"nat":"GB"}],"info":{"seed":"69b77e149266761f","results":1,"page":1,"version":"1.4"}}
